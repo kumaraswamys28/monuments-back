@@ -1,3 +1,4 @@
+
 const modelsData = [
   {
     id: 1,
@@ -10,7 +11,7 @@ const modelsData = [
       "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlrZHF4eHNuaGZ4bG5jdHRneHJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE4MjEyNjUsImV4cCI6MjA4NzM5NzI2NX0.68SqWEPDhLwvrWcpMLKklWsA96mLq2Bpw55QUb55zRE",
     items: [
         {
-          title: "General",
+          title: "dashboard",
           url: "#",
         },
         {
@@ -31,18 +32,18 @@ const modelsData = [
     id: 2,
     url: "/temple.glb",
     title:"pole",
-    transform: { position: [0, 0, 0], rotation: [0, 180, 0], scale: 1.5 },
+    transform: { position: [0, 0, 0], rotation: [500, 60, 40], scale: 1.5 },
     iot_data:
       "https://ykdqxxsnhfxlncttgxrk.supabase.co/rest/v1/iot_data?order=timestamp.desc&limit=1",
     api_key:
       "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlrZHF4eHNuaGZ4bG5jdHRneHJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE4MjEyNjUsImV4cCI6MjA4NzM5NzI2NX0.68SqWEPDhLwvrWcpMLKklWsA96mLq2Bpw55QUb55zRE",
       items: [
         {
-          title: "General222",
+          title: "dashboard",
           url: "#",
         },
         {
-          title: "Team222",
+          title: "Team",
           url: "#",
         },
         {
@@ -65,7 +66,7 @@ const modelsData = [
       "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlrZHF4eHNuaGZ4bG5jdHRneHJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE4MjEyNjUsImV4cCI6MjA4NzM5NzI2NX0.68SqWEPDhLwvrWcpMLKklWsA96mLq2Bpw55QUb55zRE",
       items: [
         {
-          title: "General222",
+          title: "dashboard",
           url: "#",
         },
         {
