@@ -2,7 +2,7 @@
 const modelsData = [
   {
     id: 1,
-    title:"hampi stone chariot",
+    title:"Hampi chariot",
     url: "/model.glb",
     transform: { position: [0, -1, 0], rotation: [0, 180, 0], scale: 1.5 },
     iot_data:
@@ -32,7 +32,7 @@ const modelsData = [
     id: 2,
 
    url: "/temple.glb",
-    title:"pole",
+    title:"Piller",
     transform: { position: [0, 0, 0], rotation: [500, 60, 40], scale: 1.5 },
     iot_data:
       "https://ykdqxxsnhfxlncttgxrk.supabase.co/rest/v1/iot_data?order=timestamp.desc&limit=1",
@@ -61,7 +61,7 @@ const modelsData = [
     url: "/temp.glb",
         // url: "/polee.glb",
 
-    title:"temple",
+    title:"Temple",
     transform: { position: [0, 0, 0], rotation: [0, 180, 0], scale: 1.5 },
     iot_data:
       "https://ykdqxxsnhfxlncttgxrk.supabase.co/rest/v1/iot_data?order=timestamp.desc&limit=1",
