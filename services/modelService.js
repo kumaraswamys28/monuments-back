@@ -32,7 +32,7 @@ const modelsData = [
     id: 2,
 
    url: "/temple.glb",
-    title:"Piller",
+    title:"Pillar",
     transform: { position: [0, 0, 0], rotation: [500, 60, 40], scale: 1.5 },
     iot_data:
       "https://ykdqxxsnhfxlncttgxrk.supabase.co/rest/v1/iot_data?order=timestamp.desc&limit=1",
