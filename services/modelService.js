@@ -85,6 +85,35 @@ const modelsData = [
         //   url: "#",
         // },
       ],
+  },{
+    id: 4,
+    url: "/lib.glb",
+        // url: "/polee.glb",
+
+    title:"Library",
+    transform: { position: [0, 0, 0], rotation: [0, 180, 0], scale: 1.5 },
+    iot_data:
+      "https://ykdqxxsnhfxlncttgxrk.supabase.co/rest/v1/iot_data?order=timestamp.desc&limit=1",
+    api_key:
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlrZHF4eHNuaGZ4bG5jdHRneHJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE4MjEyNjUsImV4cCI6MjA4NzM5NzI2NX0.68SqWEPDhLwvrWcpMLKklWsA96mLq2Bpw55QUb55zRE",
+      items: [
+        {
+          title: "dashboard",
+          url: "#",
+        },
+      {
+          title: "analytics",
+          url: "#",
+        },
+        // {
+        //   title: "Billing22",
+        //   url: "#",
+        // },
+        // {
+        //   title: "Limits22",
+        //   url: "#",
+        // },
+      ],
   },
 ];
 
